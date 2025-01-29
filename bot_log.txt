@@ -1,0 +1,306 @@
+2025-01-29 17:12:01.809103 - Bot started
+2025-01-29 17:12:02.240663 - Clicked Alliance Tab
+2025-01-29 17:12:14.793087 - Clicked Alliance Tab
+2025-01-29 17:12:17.234199 - Clicked Technology Tab
+2025-01-29 17:12:29.551784 - Bot stopped
+2025-01-29 17:12:32.400256 - Bot started
+2025-01-29 17:12:33.013139 - Clicked Alliance Tab
+2025-01-29 17:12:35.261748 - Clicked Technology Tab
+2025-01-29 17:13:07.905927 - Bot stopped
+2025-01-29 17:13:10.156322 - Bot started
+2025-01-29 17:13:20.664493 - Clicked Alliance Tab
+2025-01-29 17:13:22.952300 - Clicked Technology Tab
+2025-01-29 17:13:25.190964 - Clicked Recommended Donation
+2025-01-29 17:13:27.349280 - Out of donation tries!
+2025-01-29 17:14:19.902701 - Bot started
+2025-01-29 17:15:21.180234 - Clicked Alliance Tab
+2025-01-29 17:15:23.512138 - Clicked Technology Tab
+2025-01-29 17:15:25.778459 - Clicked Recommended Donation
+2025-01-29 17:15:27.939424 - Out of donation tries!
+2025-01-29 17:15:48.382840 - Clicked Alliance Tab
+2025-01-29 17:15:50.640092 - Clicked Technology Tab
+2025-01-29 17:15:52.887689 - Clicked Recommended Donation
+2025-01-29 17:15:55.030211 - Out of donation tries!
+2025-01-29 17:16:16.322953 - Bot started
+2025-01-29 17:16:26.874913 - Clicked Alliance Tab
+2025-01-29 17:16:49.530878 - Clicked Alliance Tab
+2025-01-29 17:16:51.813632 - Clicked Technology Tab
+2025-01-29 17:16:54.063736 - Clicked Recommended Donation
+2025-01-29 17:16:56.227611 - Out of donation tries!
+2025-01-29 17:17:47.292179 - Clicked Alliance Tab
+2025-01-29 17:17:49.543612 - Clicked Technology Tab
+2025-01-29 17:17:51.782455 - Clicked Recommended Donation
+2025-01-29 17:18:44.292844 - Bot started
+2025-01-29 17:18:54.863061 - Clicked Alliance Tab
+2025-01-29 17:18:57.121158 - Clicked Technology Tab
+2025-01-29 17:18:59.371833 - Clicked Recommended Donation
+2025-01-29 17:19:01.715854 - Out of donation tries!
+2025-01-29 17:19:22.151841 - Clicked Alliance Tab
+2025-01-29 17:19:24.405435 - Clicked Technology Tab
+2025-01-29 17:19:26.658754 - Clicked Recommended Donation
+2025-01-29 17:19:28.946249 - Out of donation tries!
+2025-01-29 17:19:54.301852 - Bot started
+2025-01-29 17:19:54.764056 - Clicked Alliance Tab
+2025-01-29 17:19:57.055170 - Clicked Technology Tab
+2025-01-29 17:19:59.325972 - Clicked Recommended Donation
+2025-01-29 17:20:01.643046 - Out of donation tries!
+2025-01-29 17:20:32.165734 - Clicked Alliance Tab
+2025-01-29 17:20:34.427541 - Clicked Technology Tab
+2025-01-29 17:20:36.691347 - Clicked Recommended Donation
+2025-01-29 17:20:38.983007 - Out of donation tries!
+2025-01-29 17:22:00.267688 - Bot stopped
+2025-01-29 18:26:14.294423 - Bot started
+2025-01-29 18:26:14.719979 - Clicked Alliance Tab
+2025-01-29 18:26:15.996125 - Clicked Technology Tab
+2025-01-29 18:26:17.233168 - Clicked Recommended Donation
+2025-01-29 18:26:18.477254 - Clicked Donate Button
+2025-01-29 18:26:20.520655 - Clicked Donate Button
+2025-01-29 18:26:22.577079 - Clicked Donate Button
+2025-01-29 18:26:24.634855 - Clicked Donate Button
+2025-01-29 18:26:26.687788 - Clicked Donate Button
+2025-01-29 18:26:28.726384 - Clicked Donate Button
+2025-01-29 18:26:30.770841 - Clicked Donate Button
+2025-01-29 18:26:32.830676 - Clicked Donate Button
+2025-01-29 18:26:34.886747 - Clicked Donate Button
+2025-01-29 18:26:36.927330 - Clicked Donate Button
+2025-01-29 18:26:38.728827 - Done 10 donations!
+2025-01-29 18:26:50.812133 - Clicked Alliance Tab
+2025-01-29 18:26:52.039271 - Clicked Technology Tab
+2025-01-29 18:26:53.250590 - Clicked Recommended Donation
+2025-01-29 18:26:54.484903 - Clicked Donate Button
+2025-01-29 18:26:56.518566 - Clicked Donate Button
+2025-01-29 18:26:58.553115 - Clicked Donate Button
+2025-01-29 18:27:00.491720 - Done 10 donations!
+2025-01-29 18:27:12.301254 - Bot stopped
+2025-01-29 18:42:18.682169 - Bot started
+2025-01-29 19:23:11.057582 - Bot started
+2025-01-29 19:23:31.999182 - Bot started
+2025-01-29 19:24:51.290284 - Bot started
+2025-01-29 19:25:35.828061 - Bot started
+2025-01-29 19:25:53.124175 - Bot stopped
+2025-01-29 19:25:54.948233 - Bot started
+2025-01-29 19:26:57.218825 - Bot started
+2025-01-29 19:27:09.484136 - Bot started
+2025-01-29 19:27:12.530981 - Clicked Help Button
+2025-01-29 19:27:13.733148 - Clicked Help Button
+2025-01-29 19:27:14.720463 - Clicked Help Button
+2025-01-29 19:27:15.891306 - Clicked Help Button
+2025-01-29 19:27:16.816871 - Clicked Help Button
+2025-01-29 19:27:18.023802 - Bot stopped
+2025-01-29 19:27:23.670717 - Bot started
+2025-01-29 19:27:34.277018 - Clicked Help Button
+2025-01-29 19:27:35.563773 - Clicked Help Button
+2025-01-29 19:27:36.840412 - Clicked Help Button
+2025-01-29 19:27:37.959969 - Clicked Help Button
+2025-01-29 19:27:40.170341 - Clicked Help Button
+2025-01-29 19:27:41.532498 - Clicked Help Button
+2025-01-29 19:27:42.793929 - Clicked Help Button
+2025-01-29 19:27:52.288927 - Bot started
+2025-01-29 19:28:24.080682 - Clicked Help Button
+2025-01-29 19:28:34.714224 - Clicked Help Button
+2025-01-29 19:30:20.942651 - Clicked Help Button
+2025-01-29 19:30:22.114127 - Clicked Help Button
+2025-01-29 19:30:23.204341 - Clicked Help Button
+2025-01-29 19:31:21.874928 - Bot started
+2025-01-29 19:33:36.457654 - Clicked Help Button
+2025-01-29 19:33:37.710709 - Clicked Help Button
+2025-01-29 19:33:39.025861 - Clicked Help Button
+2025-01-29 19:33:40.492641 - Clicked Help Button
+2025-01-29 19:33:41.643810 - Clicked Help Button
+2025-01-29 19:33:55.752636 - Clicked Help Button
+2025-01-29 19:35:25.308857 - Clicked Help Button
+2025-01-29 19:35:31.978129 - Clicked Help Button
+2025-01-29 19:37:10.281395 - Clicked Help Button
+2025-01-29 19:40:11.554158 - Bot started
+2025-01-29 19:41:19.047364 - Bot started
+2025-01-29 19:41:19.501745 - Clicked Alliance Tab
+2025-01-29 19:41:20.293064 - Clicked Technology Tab
+2025-01-29 19:41:21.688009 - Done 10 donations!
+2025-01-29 19:41:32.878502 - Clicked Alliance Tab
+2025-01-29 19:41:33.733393 - Clicked Technology Tab
+2025-01-29 19:41:34.770991 - Clicked Recommended Donation
+2025-01-29 19:41:35.861391 - Clicked Donate Button
+2025-01-29 19:41:36.527766 - Clicked Donate Button
+2025-01-29 19:41:37.193391 - Clicked Donate Button
+2025-01-29 19:41:37.810313 - Clicked Donate Button
+2025-01-29 19:41:38.419683 - Clicked Donate Button
+2025-01-29 19:41:39.010257 - Clicked Donate Button
+2025-01-29 19:41:39.644121 - Clicked Donate Button
+2025-01-29 19:41:40.255762 - Clicked Donate Button
+2025-01-29 19:41:40.898310 - Clicked Donate Button
+2025-01-29 19:41:41.532982 - Clicked Donate Button
+2025-01-29 19:41:41.852801 - Done 10 donations!
+2025-01-29 19:42:30.096904 - Bot started
+2025-01-29 19:42:30.601529 - Clicked Alliance Tab
+2025-01-29 19:42:31.858227 - Clicked Technology Tab
+2025-01-29 19:42:33.062326 - Clicked Recommended Donation
+2025-01-29 19:42:34.292616 - Clicked Donate Button
+2025-01-29 19:42:35.625457 - Clicked Donate Button
+2025-01-29 19:42:36.946657 - Clicked Donate Button
+2025-01-29 19:42:38.561499 - Clicked Donate Button
+2025-01-29 19:42:40.109732 - Clicked Donate Button
+2025-01-29 19:42:41.439621 - Clicked Donate Button
+2025-01-29 19:42:42.841131 - Clicked Donate Button
+2025-01-29 19:42:44.451524 - Clicked Donate Button
+2025-01-29 19:42:45.924253 - Clicked Donate Button
+2025-01-29 19:42:47.302575 - Clicked Donate Button
+2025-01-29 19:42:48.544470 - Done 10 donations!
+2025-01-29 19:43:00.863128 - Clicked Alliance Tab
+2025-01-29 19:43:02.009068 - Clicked Technology Tab
+2025-01-29 19:43:03.361907 - Clicked Recommended Donation
+2025-01-29 19:43:04.718604 - Clicked Donate Button
+2025-01-29 19:43:05.812475 - Clicked Donate Button
+2025-01-29 19:43:07.004012 - Clicked Donate Button
+2025-01-29 19:43:08.377913 - Clicked Donate Button
+2025-01-29 19:43:09.800700 - Clicked Donate Button
+2025-01-29 19:43:11.434477 - Clicked Donate Button
+2025-01-29 19:43:12.730752 - Clicked Donate Button
+2025-01-29 19:43:14.052810 - Clicked Donate Button
+2025-01-29 19:43:15.456668 - Clicked Donate Button
+2025-01-29 19:43:16.898501 - Clicked Donate Button
+2025-01-29 19:43:18.050280 - Done 10 donations!
+2025-01-29 19:43:50.763925 - Clicked Alliance Tab
+2025-01-29 19:43:52.050135 - Clicked Technology Tab
+2025-01-29 19:43:54.090447 - Done 10 donations!
+2025-01-29 19:44:11.019870 - Clicked Help Button
+2025-01-29 19:44:31.753418 - Bot started
+2025-01-29 19:44:50.037791 - Bot started
+2025-01-29 19:44:57.584429 - Clicked Help Button
+2025-01-29 19:44:59.226361 - Clicked Help Button
+2025-01-29 19:45:01.112673 - Clicked Help Button
+2025-01-29 19:45:20.439307 - Clicked Help Button
+2025-01-29 19:45:22.330614 - Clicked Help Button
+2025-01-29 19:45:24.025047 - Clicked Help Button
+2025-01-29 19:45:26.042451 - Clicked Help Button
+2025-01-29 19:45:30.465626 - Clicked Help Button
+2025-01-29 19:47:06.519142 - Clicked Help Button
+2025-01-29 19:47:40.209253 - Clicked Help Button
+2025-01-29 19:47:41.967065 - Clicked Help Button
+2025-01-29 19:47:43.930671 - Clicked Help Button
+2025-01-29 19:47:45.704105 - Clicked Help Button
+2025-01-29 19:47:56.149736 - Clicked Help Button
+2025-01-29 19:48:07.799548 - Clicked Help Button
+2025-01-29 19:48:48.574467 - Clicked Help Button
+2025-01-29 19:51:29.279207 - Clicked Help Button
+2025-01-29 19:51:31.494236 - Clicked Help Button
+2025-01-29 19:51:33.647275 - Clicked Help Button
+2025-01-29 19:51:35.654929 - Clicked Help Button
+2025-01-29 19:51:37.504637 - Clicked Help Button
+2025-01-29 19:52:13.212887 - Clicked Help Button
+2025-01-29 19:52:16.774010 - Bot started
+2025-01-29 19:54:10.512383 - Clicked Help Button
+2025-01-29 19:54:12.777443 - Clicked Help Button
+2025-01-29 19:55:11.939745 - Bot started
+2025-01-29 19:55:12.329961 - Clicked Alliance Tab
+2025-01-29 19:55:13.579196 - Clicked Technology Tab
+2025-01-29 19:55:15.961890 - Done 10 donations!
+2025-01-29 19:55:46.497920 - Clicked Alliance Tab
+2025-01-29 19:55:47.601108 - Clicked Technology Tab
+2025-01-29 19:55:50.276563 - Done 10 donations!
+2025-01-29 19:56:10.811188 - Clicked Alliance Tab
+2025-01-29 19:56:12.023285 - Clicked Technology Tab
+2025-01-29 19:56:13.242259 - Clicked Recommended Donation
+2025-01-29 19:56:14.417649 - Clicked Donate Button
+2025-01-29 19:56:15.956801 - Clicked Donate Button
+2025-01-29 19:56:17.235730 - Clicked Donate Button
+2025-01-29 19:56:18.869451 - Clicked Donate Button
+2025-01-29 19:56:19.937447 - Clicked Donate Button
+2025-01-29 19:56:21.193428 - Clicked Donate Button
+2025-01-29 19:56:22.705827 - Clicked Donate Button
+2025-01-29 19:56:24.237402 - Clicked Donate Button
+2025-01-29 19:56:25.592971 - Clicked Donate Button
+2025-01-29 19:56:27.128158 - Clicked Donate Button
+2025-01-29 19:56:30.393976 - Done 10 donations!
+2025-01-29 19:56:40.628860 - Clicked Alliance Tab
+2025-01-29 19:56:41.910402 - Clicked Technology Tab
+2025-01-29 19:56:43.154631 - Clicked Recommended Donation
+2025-01-29 19:56:44.556169 - Clicked Donate Button
+2025-01-29 19:56:45.993725 - Clicked Donate Button
+2025-01-29 19:56:47.255042 - Clicked Donate Button
+2025-01-29 19:56:48.809059 - Clicked Donate Button
+2025-01-29 19:56:50.204462 - Clicked Donate Button
+2025-01-29 19:56:51.414172 - Clicked Donate Button
+2025-01-29 19:56:52.608683 - Clicked Donate Button
+2025-01-29 19:56:53.927158 - Clicked Donate Button
+2025-01-29 19:56:55.108624 - Clicked Donate Button
+2025-01-29 19:56:56.492395 - Clicked Donate Button
+2025-01-29 19:56:59.077666 - Done 10 donations!
+2025-01-29 19:57:09.328868 - Clicked Alliance Tab
+2025-01-29 19:57:10.565353 - Clicked Technology Tab
+2025-01-29 19:57:11.707941 - Clicked Recommended Donation
+2025-01-29 19:57:12.786868 - Clicked Donate Button
+2025-01-29 19:57:14.424165 - Clicked Donate Button
+2025-01-29 19:57:16.218944 - Clicked Donate Button
+2025-01-29 19:57:17.429327 - Clicked Donate Button
+2025-01-29 19:57:18.601517 - Clicked Donate Button
+2025-01-29 19:57:19.736656 - Clicked Donate Button
+2025-01-29 19:57:21.202245 - Clicked Donate Button
+2025-01-29 19:57:22.847529 - Clicked Donate Button
+2025-01-29 19:57:24.119754 - Clicked Donate Button
+2025-01-29 19:57:25.433961 - Clicked Donate Button
+2025-01-29 19:57:28.969203 - Done 10 donations!
+2025-01-29 19:57:29.052878 - Clicked Help Button
+2025-01-29 19:57:39.225117 - Clicked Alliance Tab
+2025-01-29 19:57:40.559947 - Clicked Technology Tab
+2025-01-29 19:57:43.122507 - Done 10 donations!
+2025-01-29 19:57:53.350241 - Clicked Alliance Tab
+2025-01-29 19:57:54.726015 - Clicked Technology Tab
+2025-01-29 19:57:55.950432 - Clicked Recommended Donation
+2025-01-29 19:57:57.140453 - Clicked Donate Button
+2025-01-29 19:57:58.289970 - Clicked Donate Button
+2025-01-29 19:57:59.636411 - Clicked Donate Button
+2025-01-29 19:58:00.811541 - Clicked Donate Button
+2025-01-29 19:58:01.911020 - Clicked Donate Button
+2025-01-29 19:58:03.237593 - Clicked Donate Button
+2025-01-29 19:58:04.621480 - Clicked Donate Button
+2025-01-29 19:58:05.555467 - Clicked Donate Button
+2025-01-29 19:58:07.127674 - Clicked Donate Button
+2025-01-29 19:58:08.281913 - Clicked Donate Button
+2025-01-29 19:58:11.146202 - Done 10 donations!
+2025-01-29 19:58:21.427306 - Clicked Alliance Tab
+2025-01-29 19:58:22.781625 - Clicked Technology Tab
+2025-01-29 19:58:25.583012 - Done 10 donations!
+2025-01-29 19:58:41.577539 - Clicked Help Button
+2025-01-29 19:58:43.264683 - Clicked Help Button
+2025-01-29 20:00:07.066799 - Clicked Alliance Tab
+2025-01-29 20:00:08.453906 - Clicked Technology Tab
+2025-01-29 20:00:10.884969 - Done 10 donations!
+2025-01-29 20:00:21.121092 - Clicked Alliance Tab
+2025-01-29 20:00:22.251272 - Clicked Technology Tab
+2025-01-29 20:00:23.348788 - Clicked Recommended Donation
+2025-01-29 20:00:24.637943 - Clicked Donate Button
+2025-01-29 20:00:26.363701 - Clicked Donate Button
+2025-01-29 20:00:27.561172 - Clicked Donate Button
+2025-01-29 20:00:28.493576 - Clicked Donate Button
+2025-01-29 20:00:29.973345 - Clicked Donate Button
+2025-01-29 20:00:31.124020 - Clicked Donate Button
+2025-01-29 20:00:32.468677 - Clicked Donate Button
+2025-01-29 20:00:33.843106 - Clicked Donate Button
+2025-01-29 20:00:35.378541 - Clicked Donate Button
+2025-01-29 20:00:36.977194 - Clicked Donate Button
+2025-01-29 20:00:40.089928 - Done 10 donations!
+2025-01-29 20:00:44.492948 - Clicked Help Button
+2025-01-29 20:00:46.578310 - Clicked Help Button
+2025-01-29 20:00:48.793328 - Clicked Help Button
+2025-01-29 20:00:50.346107 - Clicked Alliance Tab
+2025-01-29 20:00:50.468661 - Clicked Help Button
+2025-01-29 20:00:51.514663 - Clicked Technology Tab
+2025-01-29 20:00:53.323972 - Clicked Help Button
+2025-01-29 20:00:54.275169 - Done 10 donations!
+2025-01-29 20:02:52.272380 - Clicked Help Button
+2025-01-29 20:03:17.942286 - Clicked Help Button
+2025-01-29 20:03:57.221563 - Clicked Alliance Tab
+2025-01-29 20:03:58.337955 - Clicked Technology Tab
+2025-01-29 20:03:59.521772 - Clicked Recommended Donation
+2025-01-29 20:04:00.592308 - Clicked Donate Button
+2025-01-29 20:04:01.736398 - Clicked Donate Button
+2025-01-29 20:04:02.874144 - Clicked Donate Button
+2025-01-29 20:04:04.298700 - Clicked Donate Button
+2025-01-29 20:04:05.699625 - Bot stopped
+2025-01-29 20:04:05.919038 - Clicked Donate Button
+2025-01-29 20:04:07.079724 - Clicked Donate Button
+2025-01-29 20:04:08.327281 - Clicked Donate Button
+2025-01-29 20:04:09.712489 - Clicked Donate Button
+2025-01-29 20:04:10.722843 - Clicked Donate Button
+2025-01-29 20:04:11.802898 - Clicked Donate Button
+2025-01-29 20:04:14.189103 - Done 10 donations!
