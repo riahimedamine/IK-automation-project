@@ -304,3 +304,15 @@
 2025-01-29 20:04:10.722843 - Clicked Donate Button
 2025-01-29 20:04:11.802898 - Clicked Donate Button
 2025-01-29 20:04:14.189103 - Done 10 donations!
+2025-01-29 20:34:13.835766 - Bot started
+2025-01-29 20:34:14.403423 - Clicked Help Button
+2025-01-29 20:34:16.464177 - Clicked Help Button
+2025-01-29 20:34:18.358949 - Clicked Help Button
+2025-01-29 21:24:33.090300 - Clicked Help Button
+2025-01-29 21:25:02.989001 - Clicked Help Button
+2025-01-29 21:25:04.584219 - Clicked Help Button
+2025-01-29 21:25:06.325708 - Clicked Help Button
+2025-01-29 21:25:08.112400 - Clicked Help Button
+2025-01-29 21:25:09.649407 - Clicked Help Button
+2025-01-29 21:25:11.650772 - Clicked Help Button
+2025-01-29 21:25:13.441924 - Clicked Help Button
